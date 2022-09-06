@@ -1,0 +1,13 @@
+
+user: vinay * table/database name: asdasdasdasd * Type: use database issue * Message: Database does not exist cannot use database
+user: vinay * table/database name: asdasdasdasdasd * Type: Select table * Message: Table doesn't exist please create a table
+user: vinay * table/database name: chirbviqr * Type: use issue * Message: No database found
+user: vinay * table/database name: asdasd * Type: Insert table * Message: Table doesn't exist please create a table
+user: vinay * table/database name: cvornebvtv * Type: Select table * Message: Table doesn't exist please create a table
+user: vinay * table/database name: fonwvuntr3 * Type: Select table * Message: Table doesn't exist please create a table
+user: vinay * table/database name: unervunv3rewv * Type: Select table * Message: Table doesn't exist please create a table
+user: vinay * table/database name: jvnbqevute * Type: Select table * Message: Table doesn't exist please create a tableDatabase is null for this query!
+user: vinay * table/database name: ibvreyvburvq * Type: Select table * Message: Table doesn't exist please create a table
+user: vinay * table/database name: vjnreivber * Type: Select table * Message: Table doesn't exist please create a table
+user: vinay * table/database name: vjrenvutqret * Type: Select table * Message: Table doesn't exist please create a table
+user: vinay * table/database name: nilesh * Type: Table issue * Message: Table exist cannot create a Table

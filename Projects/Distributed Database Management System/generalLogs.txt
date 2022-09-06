@@ -1,0 +1,40 @@
+
+user: * startTime: 1611305612865300* executionTime: 406300* database name: ruhsi
+
+user: * startTime: 1611472390323000* executionTime: 2004300* database name: ruhsi
+
+user: * startTime: 1611477620726600* executionTime: 628100* database name: ruhsi
+
+user: * startTime: 1611772618081100* executionTime: 467000* database name: ruhsi
+------- Table name : abc * numberOfRecords: 2
+user: vinay* startTime: 338566738102100* executionTime: 1738800* database name: DW
+------- Table name : courses * numberOfRecords: 1------- Table name : studentdata * numberOfRecords: 1------- Table name : studentenrollment * numberOfRecords: 1------- Table name : courses3 * numberOfRecords: 0------- Table name : courses4 * numberOfRecords: 0
+user: vinay* startTime: 339070013535700* executionTime: 1760200* database name: DW
+------- Table name : courses * numberOfRecords: 1------- Table name : studentdata * numberOfRecords: 1------- Table name : studentenrollment * numberOfRecords: 1------- Table name : courses3 * numberOfRecords: 0------- Table name : courses4 * numberOfRecords: 0
+user: vinay* startTime: 346414701680200* executionTime: 2488000* database name: vinaydb
+
+user: vinay* startTime: 346660947521000* executionTime: 298900* database name: vinaydb
+------- Table name : courses * numberOfRecords: 0
+user: vinay* startTime: 346780344770800* executionTime: 209000* database name: vinaydb
+------- Table name : courses * numberOfRecords: 0
+user: vinay* startTime: 346907972531000* executionTime: 1077800* database name: vinaydb
+------- Table name : courses * numberOfRecords: 1
+user: vinay* startTime: 346978603225500* executionTime: 294100* database name: vinaydb
+------- Table name : courses * numberOfRecords: 2
+user: vinay* startTime: 349171507320100* executionTime: 2799700* database name: test
+------- Table name : abc * numberOfRecords: 3------- Table name : abc1234 * numberOfRecords: 0
+user: vinay* startTime: 349283080626100* executionTime: 1837800* database name: DW
+------- Table name : courses * numberOfRecords: 1------- Table name : studentdata * numberOfRecords: 1------- Table name : studentenrollment * numberOfRecords: 1------- Table name : courses3 * numberOfRecords: 0------- Table name : courses4 * numberOfRecords: 0
+user: vinay* startTime: 349307357301600* executionTime: 1674500* database name: DW
+------- Table name : courses * numberOfRecords: 1------- Table name : studentdata * numberOfRecords: 1------- Table name : studentenrollment * numberOfRecords: 1------- Table name : courses3 * numberOfRecords: 0------- Table name : courses4 * numberOfRecords: 0
+user: vinay* startTime: 349420360164200* executionTime: 1865900* database name: DW
+------- Table name : courses * numberOfRecords: 1------- Table name : studentdata * numberOfRecords: 1------- Table name : studentenrollment * numberOfRecords: 1------- Table name : courses3 * numberOfRecords: 0------- Table name : courses4 * numberOfRecords: 0
+user: vinay* startTime: 1699965021400* executionTime: 1868100* database name: DW
+
+user: vinay* startTime: 1825339890600* executionTime: 2026000* database name: DW
+------- Table name : nilesh * numberOfRecords: 0
+user: vinay* startTime: 1875099471600* executionTime: 1932800* database name: DW
+------- Table name : nilesh * numberOfRecords: 0
+user: vinay* startTime: 2281494955300* executionTime: 2089400* database name: DW
+------- Table name : nilesh * numberOfRecords: 0------- Table name : nil2 * numberOfRecords: 0
+user: vinay* startTime: 2412477425000* executionTime: 2099200* database name: rushi

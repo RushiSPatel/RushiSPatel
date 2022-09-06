@@ -1,0 +1,6 @@
+User VINAY Performed 9 Operations On dw; On VM 1
+User VINAY Performed 9 Operations On vinaydb; On VM 1
+User VINAY Performed 1 Operations On nilesh; On VM 1
+User KAVAN Performed 8 Operations On abcd On VM 1
+User KAVAN Performed 1 Operations On defg On VM 1
+User SARTHAK Performed 5 Operations On abcd On VM 1

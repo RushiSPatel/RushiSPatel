@@ -1,0 +1,6 @@
+Table - courses
+Columns - [(pk) id, name, professor]
+
+Relationships between tables
+-----------------------------------------
+No relationships between tables

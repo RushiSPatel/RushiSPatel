@@ -1,0 +1,9 @@
+abc~StudentID~int~pk
+abc~LastName~varchar~255
+abc~FirstName~varchar~255
+courses~id~int~pk~vm1
+courses~name~varchar~64~vm1
+courses~description~varchar~200~vm1
+courses~id~int~pk~vm1
+courses~name~varchar~64~vm1
+courses~description~varchar~200~vm1
