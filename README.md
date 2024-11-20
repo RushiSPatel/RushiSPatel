@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rushi Patel</h1>
-<h2 align="center">Graduate student at Dalhousie University</h2>
+<h2 align="center">IT Developer at Canada Revenue Agency</h2>
 
 
-- 🔭 I’m currently working as a [Developer at Google Developer Student Club](https://www.linkedin.com/company/dscjscoe/)
+- 🔭 A former [Developer at Google Developer Student Club](https://www.linkedin.com/company/dscjscoe/)
 
-- 🔭 I'm also working as a **Teaching Assistant for Software Engineering Course (CSCI 3130) at Dalhousie University**
+- 🔭 Worked as a **Teaching Assistant for Software Engineering Course (CSCI 3130) at Dalhousie University**
 
-- 🌱 I’m currently learning **ReactJS with MaterialUI and AWS services for the Cloud Practitioner certification.**
+- 🌱 Extremely interested towards cloud development and have worked on **AWS, GCP, Azure, Docker, and Helm charts**
 
 
 
