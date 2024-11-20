@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushi Patel</h1>
+<h2 align="center">Master of Applied Computer Science</h2>
 <h2 align="center">IT Developer at Canada Revenue Agency</h2>
 
 
