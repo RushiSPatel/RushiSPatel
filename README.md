@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RushiSPatel/RushiSPatel/tree/main](https://github.com/RushiSPatel/RushiSPatel/tree/main)
 
-- 📫 How to reach me -> **rushi.patel@dal.ca**
+- 📫 How to reach me -> **rushipatel0995@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/RushiSPatel/RushiSPatel/blob/main/Resume/Rushi's%20Resume.pdf](https://github.com/RushiSPatel/RushiSPatel/blob/main/Resume/Rushi's%20Resume.pdf)
 
