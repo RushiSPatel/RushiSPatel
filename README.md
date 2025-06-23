@@ -15,7 +15,7 @@
 
 - 📫 How to reach me -> **rushipatel0995@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/RushiSPatel/RushiSPatel/blob/main/Resume/Rushi's%20Resume.pdf](https://github.com/RushiSPatel/RushiSPatel/blob/main/Resume/Rushi's%20Resume.pdf)
+- 📄 Know about my experiences [Rushi's Resume](https://github.com/RushiSPatel/RushiSPatel/blob/main/Resume/Rushi's%20Resume.pdf)
 
 - ⚡ Fun fact **As a child I dreamt of becoming the greatest table tennis player of all time!**
 
