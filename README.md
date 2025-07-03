@@ -7,7 +7,9 @@
 
 - 🔭 Worked as a **Teaching Assistant for Software Engineering Course (CSCI 3130) at Dalhousie University**
 
-- 🌱 Extremely interested towards cloud development and have worked on **AWS, GCP, Azure, Docker, and Helm charts**
+- 🌱 Passionate about cloud development, with hands-on experience in **AWS, GCP, Azure, Docker, and Helm charts**
+  
+- 🌱 Profficient in Java development
 
 
 
